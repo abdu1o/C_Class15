@@ -1,5 +1,3 @@
-#ifndef ENGINE_H
-#define ENGINE_H
 #include <string>
 
 namespace engine
@@ -28,5 +26,4 @@ namespace engine
 
 	void printEngineInfo(const EngineInfo& engine);
 }
-#endif
 
